@@ -1,0 +1,28 @@
+{
+  "name": "syndrome",
+  "version": "1.0.0",
+  "description": "The one and only bot you can find with this name",
+  "main": "syndrome.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Staz0r/Syndrome.git"
+  },
+  "author": "SyndromeSoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Staz0r/Syndrome/issues"
+  },
+  "homepage": "https://github.com/Staz0r/Syndrome#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
