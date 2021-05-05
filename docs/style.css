@@ -16,6 +16,7 @@
 body{
     font-family: 'moonbold';
     background-color:#121212;
+    transition: 1s;
 }
 
 .text{
@@ -41,7 +42,7 @@ body{
     cursor:pointer;
     white-space:nowrap;
     box-shadow: 5px 7px #121212;
-    transition:0.3s;
+    transition:0.7s;
 }
 
 .IBtn:hover{
@@ -64,7 +65,7 @@ body{
 }
 
 div {
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    height: 0;
 }
