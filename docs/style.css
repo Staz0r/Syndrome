@@ -21,7 +21,7 @@ body{
 
 .text{
     text-align:center;
-    color: rgb(251,211,124);
+    color: rgba(252,213,126,255)
 }
 
 #header{
@@ -55,7 +55,7 @@ body{
     border:none;
     border-radius: 30px;
     display:inline-block;
-    padding: 420px 20px;
+    padding: 270px 20px;
     overflow:hidden;
     text-decoration:none;
     color: none;
