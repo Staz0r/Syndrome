@@ -77,23 +77,12 @@ body{
     transition: 0.3s;
 }
 
-/*
-.IBtn:hover span:after{
-    background-color:rgb(51, 105, 126);
-    color: white;
-    box-shadow: 5px 7px rgba(50, 84, 97, 0.267);
-    opacity: 1;
-    right: 0;
-}
-*/
-
-
 /* Button end */
 
 .box{
     border:none;
     border-radius: 30px;
-    display:inline-block;
+    /* display:inline-block; for some reason disabling this make the page more responsive*/
     padding: 270px 20px;
     overflow:hidden;
     text-decoration:none;
