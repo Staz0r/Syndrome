@@ -1,0 +1,21 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "a bot bruh",
+  "main": "index.js",
+  "scripts": {
+    "test": "bruh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github,com/Staz0r/Syndrome"
+  },
+  "keywords": [
+    "discord-bot"
+  ],
+  "author": "Atrainag",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
