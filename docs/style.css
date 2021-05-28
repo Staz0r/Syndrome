@@ -52,8 +52,8 @@ body{
 }
 
 .IBtn span:after {
-    content: '\00bb';
-    font-size: 16px;
+    content: ' \00bb';
+    font-size: 20px;
     opacity: 0;
     top: 0;
     right: 20px;
